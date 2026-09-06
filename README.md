@@ -1,3 +1,13 @@
-My name is Agustin A. Cordova III. I am a student interested in technology and programming.
+# About Me
 
-I am learning to code to improve my programming skills, create useful applications, and prepare for my future career in the technology field.
+## Name
+
+Agustin A. Cordova III
+
+## About Me
+
+I am a BSIT student interested in technology and software development. I am currently learning programming and improving my technical skills.
+
+## Why I'm Learning to Code
+
+I am learning to code because I want to develop useful applications, improve my problem-solving skills, and prepare myself for a career in the IT industry.
